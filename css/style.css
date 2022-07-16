@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Inter:wght@200;300;400;500;600;700;800;900&family=Lexend:wght@100;200;300;400;500;600;700;800;900&family=Manrope:wght@200;300;400;500;600;700;800&display=swap");
+
+body {
+  font-family: "DM Sans", sans-serif;
+  font-family: "Inter", sans-serif;
+  font-family: "Lexend", sans-serif;
+  font-family: "Manrope", sans-serif;
+}
+.btn:hover{
+    background-color: #c5ec00;
+    border-style:none
+    
+}
+
+.navbar-expand-lg .navbar-nav {
+  margin-left: 50px;
+}
+.navbar ul li a{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 28px;
+/* identical to box height, or 175% */
+
+
+color: #151B26;
+}
+.startProjectBtn{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+
+background: #FFFFFF;
+box-shadow: 10px 22px 92px rgba(27, 29, 33, 0.06);
+border-radius: 21px;
+
+text-align: center;
+
+color: #151B26;
+}
+.d-flex {
+  margin-right: 50px;
+}
+.startProjectBtn{
+    font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+background: #FFFFFF;
+box-shadow: 10px 22px 92px rgba(27, 29, 33, 0.06);
+border-radius: 21px;
+
+text-align: center;
+
+color: #151B26;
+}
+
+/* Hero Section css Start*/
+
+.hero_section h2 {
+  font-family: "Lexend";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 62px;
+  line-height: 76px;
+  color: #151b26;
+  margin-top: 100px;
+}
+
+.hero_section p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 36px;
+  /* or 164% */
+
+  color: #8c8e92;
+}
+
+.hero_section .letsBtn {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+  margin-right: 20px;
+  padding: 10px;
+  color: #151b26;
+  background: #fff;
+  box-shadow: 4px 20px 44px rgba(197, 236, 0, 0.3);
+  border-radius: 28px;
+}
+
+.hero_section .portfolioBtn{
+    
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+background: #FFFFFF;
+border: 1px solid #E8E8E8;
+border-radius: 28px;
+padding: 10px;
+text-align: center;
+
+color: #151B26;
+
+}
+
+.hero_section .letsBtn:hover{
+    background-color: #c5ec00;
+    border:none;
+}
+.hero_section .portfolioBtn:hover{
+    background-color: #c5ec00;
+    border:none;
+}
+.hero_section img{
+    margin-top: -60px;
+}
+
+/* Hero Section css End*/
