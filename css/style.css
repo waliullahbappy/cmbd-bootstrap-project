@@ -127,3 +127,19 @@ color: #151B26;
 }
 
 /* Hero Section css End*/
+
+.featured_section{
+    padding-top: 100px;
+    border-bottom: 1px solid #D8D8D8;
+    background: #FAFAFA;
+}
+.featured_second_section{
+  
+  background: #FAFAFA;
+}
+.fetured{
+  width:100%;
+ 
+}
+
+/* Featured Section Css Start*/
